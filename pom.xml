@@ -19,7 +19,7 @@
 
         <gson.version>2.10.1</gson.version>
         <servlet.api.version>4.0.1</servlet.api.version>
-        <org.postgresql.version>42.5.1</org.postgresql.version>
+        <org.postgresql.version>42.7.2</org.postgresql.version>
         <junit.connector.version>4.13.2</junit.connector.version>
         <lombok.connector.version>1.18.24</lombok.connector.version>
         <jackson.connector.version>2.14.0</jackson.connector.version>
